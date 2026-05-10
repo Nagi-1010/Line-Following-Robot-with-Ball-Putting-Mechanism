@@ -94,19 +94,3 @@ Line-Following-Robot-Ball-Mechanism/
 │   └── stl_files
 │
 └── README.md
-
-
-## Project Images
-
-### Final Robot Assembly
-
-![Final Robot](images/final_robot_top_view.jpg)
-
-### Fusion 360 Design
-
-![Fusion 360 Design](fusion360_design/fusion360_main_assembly.jpg)
-
-### Fritzing Circuit
-
-![Fritzing Circuit](circuit/fritzing_circuit_diagram.jpg)
-
