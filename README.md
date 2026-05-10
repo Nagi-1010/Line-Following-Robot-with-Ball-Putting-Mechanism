@@ -1,6 +1,6 @@
 # Line Following Robot with Ball-Putting Mechanism
 
-# Author: Nagi Al-Yafaey
+## Author: Nagi Al-Yafaey
 
 A semester project based on an Arduino-controlled Line Following Robot (LFR) with a custom mechanical design, PID-based movement control, obstacle detection, and a ball-putting mechanism.
 
